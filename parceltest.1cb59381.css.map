@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["parceltest.1cb59381.css","src/styles.css"],"sourcesContent":["h1 {\n  color: red;\n  font-weight: 900;\n}\n/*# sourceMappingURL=parceltest.1cb59381.css.map */\n","h1{\r\n    color: red;\r\n    font-weight: 900;\r\n}"],"names":[],"version":3,"file":"parceltest.1cb59381.css.map"}
